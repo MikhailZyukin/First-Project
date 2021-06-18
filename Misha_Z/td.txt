@@ -1,0 +1,25 @@
+  v8 and node -  c++ programm!
+
+  1. git init, git add .ignore...
+  2. node.init
+  3. nodemon
+  4 express - from package.json (we write express inside package.json)
+    and write npm install
+  5 starting write the app.js
+
+21.01.21 Получить стр. с сервера.
+
+11.03.2021 
+  +Установили koala
+      Стили будем писать с помощью scss
+      изучили вложенность и переписали сделанные стили 
+
+18.03.21
+  ? пунктирная линия 
+  + и блок с описанием
+
+Далее
+  - закончить header mobile (hw)
+    Переходим к секции 2
+
+

@@ -1,0 +1,42 @@
+//< Подключаем шрифты c помощью ссылки в index>
+//< Перед релизом, добавить в статику и в scss>
+
+
+//  Реализуем картинку hero поверх меню 
+.md-nav-lg {
+    position: relative;
+    .md-col-logo{
+        height: 900px;
+    }
+    .md-col-menu {
+        height: 900px;
+        background-color: #181823;
+    }
+    .md-hero-box{
+        position: absolute;
+        top: 170px;
+        margin-left: -10px;
+        .md-hero-text .md-about-header {
+                position: absolute;
+                color: white;
+                top: 250px;
+                right: 0;
+                font-size: 60px;
+                font-weight: 700;
+                font-family: 'Sen', sans-serif;
+                line-height: 70px;
+                text-align: justify;
+        }
+        .md-hero-text .md-about-content{
+                position: absolute;
+                color: white;
+                top: 500px;
+                left: 400px;
+                font-size: 18px;
+                font-weight: 400;
+                font-family: 'Sen', sans-serif;
+                line-height: 27px;
+                text-align: justify;
+        }
+    }
+}
