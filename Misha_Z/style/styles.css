@@ -36,30 +36,31 @@
         font-size: 18px;
         font-weight: 400;
       }
-      .md-interest-numbers{
+      .resize{
         position: relative;
-        color: grey;
-        font-size: 130px;
-        font-weight: 600;
+        font-size: 117px;
+        font-family: 'Sen',sans-serif;
+        font-weight: normal;
       }
 
-      
-      .md-interest-title-first{
+      .recolour-1{
         position: relative;
         color: #3CC74E;
-        font-size: 32px;
+        font-family: 'Sen',sans-serif;
         font-weight: 400;
       }
-      .md-interest-title-second{
+
+      .recolour-2{
         position: relative;
         color: #609BFF;
-        font-size: 32px;
+        font-family: 'Sen',sans-serif;
         font-weight: 400;
       }
-      .md-interest-title-third{
+
+      .recolour-3{
         position: relative;
         color: #E95D90;
-        font-size: 32px;
+        font-family: 'Sen',sans-serif;
         font-weight: 400;
       }
 
