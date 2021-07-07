@@ -70,6 +70,21 @@
       .bg-white{
         background-color: white;
       }
+      
+      .bg-pink{
+        background-color: #FBE4FF;
+      }
+
+      .ig-link{
+        color:#181823;
+        text-decoration:underline;
+      }
+      .label-text-color{
+        color: white;
+      }
+      .input-text-color, input:focus{
+        color: white;
+      }
 
 
 /*# sourceMappingURL=styles.css.map */
