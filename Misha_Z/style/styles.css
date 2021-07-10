@@ -85,6 +85,15 @@
       .input-text-color, input:focus{
         color: white;
       }
-
+      .btn-purple{
+        background-color: #5221E6;
+        color: white;
+      }
+      .h1-color{
+        color: white;
+      }
+      .padding-text{
+        
+      }
 
 /*# sourceMappingURL=styles.css.map */
