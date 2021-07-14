@@ -82,9 +82,11 @@
       .label-text-color{
         color: white;
       }
-      .input-text-color, input:focus{
+
+      .input-text-color:enabled{
         color: white;
       }
+
       .btn-purple{
         background-color: #5221E6;
         color: white;
